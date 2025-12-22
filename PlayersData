@@ -4,121 +4,149 @@
       "user_id": "player_one_123",
       "username": "PlayerOne",
       "sabotage_stats_lifetime": {
-        "slap_left": {
-          "sent": 210,
-          "received": 45
-        },
-        "slap_right": {
-          "sent": 198,
-          "received": 32
-        },
-        "speed_boost": {
-          "sent": 142,
-          "received": 0
-        },
-        "power_jump": {
-          "sent": 85,
-          "received": 0
-        },
-        "inverse_keys": {
-          "sent": 42,
-          "received": 18
-        },
-        "nuclear": {
-          "sent": 3,
-          "received": 12
-        }
+        "slap_left": { "sent": 210, "received": 45 },
+        "slap_right": { "sent": 198, "received": 32 },
+        "speed_boost": { "sent": 142, "received": 0 },
+        "power_jump": { "sent": 85, "received": 0 },
+        "inverse_keys": { "sent": 42, "received": 18 },
+        "nuclear": { "sent": 3, "received": 12 }
       }
     },
     {
       "user_id": "slap_master_99",
       "username": "SlapMaster99",
       "sabotage_stats_lifetime": {
-        "slap_left": {
-          "sent": 1540,
-          "received": 120
-        },
-        "slap_right": {
-          "sent": 1600,
-          "received": 115
-        },
-        "speed_boost": {
-          "sent": 800,
-          "received": 0
-        },
-        "power_jump": {
-          "sent": 450,
-          "received": 0
-        },
-        "inverse_keys": {
-          "sent": 300,
-          "received": 50
-        },
-        "nuclear": {
-          "sent": 52,
-          "received": 5
-        }
+        "slap_left": { "sent": 1540, "received": 120 },
+        "slap_right": { "sent": 1600, "received": 115 },
+        "speed_boost": { "sent": 800, "received": 0 },
+        "power_jump": { "sent": 450, "received": 0 },
+        "inverse_keys": { "sent": 300, "received": 50 },
+        "nuclear": { "sent": 52, "received": 5 }
       }
     },
     {
       "user_id": "king_chaos_x",
       "username": "KingChaos",
       "sabotage_stats_lifetime": {
-        "slap_left": {
-          "sent": 890,
-          "received": 600
-        },
-        "slap_right": {
-          "sent": 910,
-          "received": 580
-        },
-        "speed_boost": {
-          "sent": 120,
-          "received": 0
-        },
-        "power_jump": {
-          "sent": 45,
-          "received": 0
-        },
-        "inverse_keys": {
-          "sent": 55,
-          "received": 210
-        },
-        "nuclear": {
-          "sent": 12,
-          "received": 48
-        }
+        "slap_left": { "sent": 890, "received": 600 },
+        "slap_right": { "sent": 910, "received": 580 },
+        "speed_boost": { "sent": 120, "received": 0 },
+        "power_jump": { "sent": 45, "received": 0 },
+        "inverse_keys": { "sent": 55, "received": 210 },
+        "nuclear": { "sent": 12, "received": 48 }
       }
     },
     {
       "user_id": "zero_cool_00",
       "username": "ZeroCool",
       "sabotage_stats_lifetime": {
-        "slap_left": {
-          "sent": 45,
-          "received": 300
-        },
-        "slap_right": {
-          "sent": 50,
-          "received": 320
-        },
-        "speed_boost": {
-          "sent": 10,
-          "received": 0
-        },
-        "power_jump": {
-          "sent": 5,
-          "received": 0
-        },
-        "inverse_keys": {
-          "sent": 2,
-          "received": 99
-        },
-        "nuclear": {
-          "sent": 0,
-          "received": 34
-        }
+        "slap_left": { "sent": 45, "received": 300 },
+        "slap_right": { "sent": 50, "received": 320 },
+        "speed_boost": { "sent": 10, "received": 0 },
+        "power_jump": { "sent": 5, "received": 0 },
+        "inverse_keys": { "sent": 2, "received": 99 },
+        "nuclear": { "sent": 0, "received": 34 }
       }
-    }
+    },
+    { "user_id": "u5", "username": "NeonNinja", "sabotage_stats_lifetime": { "slap_left": { "sent": 320, "received": 50 }, "slap_right": { "sent": 310, "received": 40 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 30, "received": 10 }, "nuclear": { "sent": 1, "received": 2 } } },
+    { "user_id": "u6", "username": "PixelPuncher", "sabotage_stats_lifetime": { "slap_left": { "sent": 150, "received": 200 }, "slap_right": { "sent": 160, "received": 210 }, "speed_boost": { "sent": 50, "received": 0 }, "power_jump": { "sent": 20, "received": 0 }, "inverse_keys": { "sent": 10, "received": 40 }, "nuclear": { "sent": 0, "received": 5 } } },
+    { "user_id": "u7", "username": "LagSpike", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 100 }, "slap_right": { "sent": 850, "received": 90 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 150, "received": 20 }, "nuclear": { "sent": 10, "received": 1 } } },
+    { "user_id": "u8", "username": "GlitchWitch", "sabotage_stats_lifetime": { "slap_left": { "sent": 1200, "received": 50 }, "slap_right": { "sent": 1250, "received": 45 }, "speed_boost": { "sent": 600, "received": 0 }, "power_jump": { "sent": 300, "received": 0 }, "inverse_keys": { "sent": 250, "received": 30 }, "nuclear": { "sent": 25, "received": 0 } } },
+    { "user_id": "u9", "username": "FrameDrop", "sabotage_stats_lifetime": { "slap_left": { "sent": 60, "received": 400 }, "slap_right": { "sent": 55, "received": 420 }, "speed_boost": { "sent": 20, "received": 0 }, "power_jump": { "sent": 10, "received": 0 }, "inverse_keys": { "sent": 5, "received": 80 }, "nuclear": { "sent": 0, "received": 15 } } },
+    { "user_id": "u10", "username": "CtrlAltDel", "sabotage_stats_lifetime": { "slap_left": { "sent": 950, "received": 150 }, "slap_right": { "sent": 980, "received": 140 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 250, "received": 0 }, "inverse_keys": { "sent": 180, "received": 60 }, "nuclear": { "sent": 15, "received": 3 } } },
+    { "user_id": "u11", "username": "BlueScreen", "sabotage_stats_lifetime": { "slap_left": { "sent": 300, "received": 300 }, "slap_right": { "sent": 310, "received": 290 }, "speed_boost": { "sent": 150, "received": 0 }, "power_jump": { "sent": 70, "received": 0 }, "inverse_keys": { "sent": 40, "received": 40 }, "nuclear": { "sent": 2, "received": 2 } } },
+    { "user_id": "u12", "username": "KeyboardWarrior", "sabotage_stats_lifetime": { "slap_left": { "sent": 500, "received": 200 }, "slap_right": { "sent": 520, "received": 190 }, "speed_boost": { "sent": 250, "received": 0 }, "power_jump": { "sent": 120, "received": 0 }, "inverse_keys": { "sent": 80, "received": 30 }, "nuclear": { "sent": 5, "received": 8 } } },
+    { "user_id": "u13", "username": "MouseClicker", "sabotage_stats_lifetime": { "slap_left": { "sent": 100, "received": 50 }, "slap_right": { "sent": 110, "received": 45 }, "speed_boost": { "sent": 30, "received": 0 }, "power_jump": { "sent": 15, "received": 0 }, "inverse_keys": { "sent": 5, "received": 10 }, "nuclear": { "sent": 0, "received": 1 } } },
+    { "user_id": "u14", "username": "ScreenTear", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 600 }, "slap_right": { "sent": 720, "received": 580 }, "speed_boost": { "sent": 350, "received": 0 }, "power_jump": { "sent": 180, "received": 0 }, "inverse_keys": { "sent": 100, "received": 120 }, "nuclear": { "sent": 8, "received": 10 } } },
+    { "user_id": "u15", "username": "VsyncOff", "sabotage_stats_lifetime": { "slap_left": { "sent": 2000, "received": 500 }, "slap_right": { "sent": 2100, "received": 480 }, "speed_boost": { "sent": 1000, "received": 0 }, "power_jump": { "sent": 500, "received": 0 }, "inverse_keys": { "sent": 400, "received": 100 }, "nuclear": { "sent": 60, "received": 20 } } },
+    { "user_id": "u16", "username": "PingHigh", "sabotage_stats_lifetime": { "slap_left": { "sent": 10, "received": 1000 }, "slap_right": { "sent": 5, "received": 1050 }, "speed_boost": { "sent": 0, "received": 0 }, "power_jump": { "sent": 0, "received": 0 }, "inverse_keys": { "sent": 0, "received": 300 }, "nuclear": { "sent": 0, "received": 50 } } },
+    { "user_id": "u17", "username": "PacketLoss", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 400 }, "slap_right": { "sent": 410, "received": 410 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 50, "received": 50 }, "nuclear": { "sent": 4, "received": 4 } } },
+    { "user_id": "u18", "username": "WifiWarrior", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 300 }, "slap_right": { "sent": 620, "received": 290 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 70, "received": 20 }, "nuclear": { "sent": 6, "received": 2 } } },
+    { "user_id": "u19", "username": "LanParty", "sabotage_stats_lifetime": { "slap_left": { "sent": 1500, "received": 200 }, "slap_right": { "sent": 1550, "received": 190 }, "speed_boost": { "sent": 750, "received": 0 }, "power_jump": { "sent": 380, "received": 0 }, "inverse_keys": { "sent": 250, "received": 40 }, "nuclear": { "sent": 30, "received": 5 } } },
+    { "user_id": "u20", "username": "SoloCarry", "sabotage_stats_lifetime": { "slap_left": { "sent": 2500, "received": 100 }, "slap_right": { "sent": 2600, "received": 90 }, "speed_boost": { "sent": 1200, "received": 0 }, "power_jump": { "sent": 600, "received": 0 }, "inverse_keys": { "sent": 500, "received": 20 }, "nuclear": { "sent": 80, "received": 1 } } },
+    { "user_id": "u21", "username": "TeamPlayer", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 800 }, "slap_right": { "sent": 810, "received": 810 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 100, "received": 100 }, "nuclear": { "sent": 10, "received": 10 } } },
+    { "user_id": "u22", "username": "GGBro", "sabotage_stats_lifetime": { "slap_left": { "sent": 300, "received": 300 }, "slap_right": { "sent": 300, "received": 300 }, "speed_boost": { "sent": 150, "received": 0 }, "power_jump": { "sent": 75, "received": 0 }, "inverse_keys": { "sent": 30, "received": 30 }, "nuclear": { "sent": 2, "received": 2 } } },
+    { "user_id": "u23", "username": "NoRegrets", "sabotage_stats_lifetime": { "slap_left": { "sent": 1000, "received": 500 }, "slap_right": { "sent": 1050, "received": 480 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 250, "received": 0 }, "inverse_keys": { "sent": 150, "received": 80 }, "nuclear": { "sent": 12, "received": 8 } } },
+    { "user_id": "u24", "username": "YoloSwag", "sabotage_stats_lifetime": { "slap_left": { "sent": 50, "received": 200 }, "slap_right": { "sent": 60, "received": 210 }, "speed_boost": { "sent": 20, "received": 0 }, "power_jump": { "sent": 10, "received": 0 }, "inverse_keys": { "sent": 5, "received": 30 }, "nuclear": { "sent": 0, "received": 4 } } },
+    { "user_id": "u25", "username": "GitGud", "sabotage_stats_lifetime": { "slap_left": { "sent": 1800, "received": 100 }, "slap_right": { "sent": 1850, "received": 95 }, "speed_boost": { "sent": 900, "received": 0 }, "power_jump": { "sent": 450, "received": 0 }, "inverse_keys": { "sent": 300, "received": 15 }, "nuclear": { "sent": 40, "received": 2 } } },
+    { "user_id": "u26", "username": "EzPz", "sabotage_stats_lifetime": { "slap_left": { "sent": 900, "received": 200 }, "slap_right": { "sent": 920, "received": 190 }, "speed_boost": { "sent": 450, "received": 0 }, "power_jump": { "sent": 220, "received": 0 }, "inverse_keys": { "sent": 120, "received": 30 }, "nuclear": { "sent": 10, "received": 5 } } },
+    { "user_id": "u27", "username": "L33t", "sabotage_stats_lifetime": { "slap_left": { "sent": 1337, "received": 137 }, "slap_right": { "sent": 1337, "received": 137 }, "speed_boost": { "sent": 600, "received": 0 }, "power_jump": { "sent": 300, "received": 0 }, "inverse_keys": { "sent": 200, "received": 20 }, "nuclear": { "sent": 25, "received": 3 } } },
+    { "user_id": "u28", "username": "HackerMan", "sabotage_stats_lifetime": { "slap_left": { "sent": 3000, "received": 50 }, "slap_right": { "sent": 3100, "received": 40 }, "speed_boost": { "sent": 1500, "received": 0 }, "power_jump": { "sent": 750, "received": 0 }, "inverse_keys": { "sent": 600, "received": 10 }, "nuclear": { "sent": 100, "received": 0 } } },
+    { "user_id": "u29", "username": "Bot001", "sabotage_stats_lifetime": { "slap_left": { "sent": 0, "received": 500 }, "slap_right": { "sent": 0, "received": 520 }, "speed_boost": { "sent": 0, "received": 0 }, "power_jump": { "sent": 0, "received": 0 }, "inverse_keys": { "sent": 0, "received": 100 }, "nuclear": { "sent": 0, "received": 20 } } },
+    { "user_id": "u30", "username": "Bot002", "sabotage_stats_lifetime": { "slap_left": { "sent": 10, "received": 450 }, "slap_right": { "sent": 15, "received": 460 }, "speed_boost": { "sent": 5, "received": 0 }, "power_jump": { "sent": 2, "received": 0 }, "inverse_keys": { "sent": 0, "received": 80 }, "nuclear": { "sent": 0, "received": 15 } } },
+    { "user_id": "u31", "username": "SpeedRunner", "sabotage_stats_lifetime": { "slap_left": { "sent": 500, "received": 100 }, "slap_right": { "sent": 520, "received": 90 }, "speed_boost": { "sent": 2000, "received": 0 }, "power_jump": { "sent": 500, "received": 0 }, "inverse_keys": { "sent": 50, "received": 20 }, "nuclear": { "sent": 5, "received": 2 } } },
+    { "user_id": "u32", "username": "TankyMcTank", "sabotage_stats_lifetime": { "slap_left": { "sent": 200, "received": 2000 }, "slap_right": { "sent": 220, "received": 2100 }, "speed_boost": { "sent": 50, "received": 0 }, "power_jump": { "sent": 20, "received": 0 }, "inverse_keys": { "sent": 10, "received": 500 }, "nuclear": { "sent": 1, "received": 80 } } },
+    { "user_id": "u33", "username": "GlassCannon", "sabotage_stats_lifetime": { "slap_left": { "sent": 1500, "received": 1500 }, "slap_right": { "sent": 1550, "received": 1550 }, "speed_boost": { "sent": 700, "received": 0 }, "power_jump": { "sent": 350, "received": 0 }, "inverse_keys": { "sent": 200, "received": 200 }, "nuclear": { "sent": 30, "received": 30 } } },
+    { "user_id": "u34", "username": "SneakyPete", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 50 }, "slap_right": { "sent": 620, "received": 45 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 100, "received": 10 }, "nuclear": { "sent": 8, "received": 1 } } },
+    { "user_id": "u35", "username": "LoudMouth", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 600 }, "slap_right": { "sent": 420, "received": 620 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 50, "received": 100 }, "nuclear": { "sent": 4, "received": 12 } } },
+    { "user_id": "u36", "username": "SilentBob", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 100 }, "slap_right": { "sent": 850, "received": 95 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 120, "received": 15 }, "nuclear": { "sent": 10, "received": 2 } } },
+    { "user_id": "u37", "username": "RageQuitter", "sabotage_stats_lifetime": { "slap_left": { "sent": 50, "received": 50 }, "slap_right": { "sent": 55, "received": 55 }, "speed_boost": { "sent": 20, "received": 0 }, "power_jump": { "sent": 10, "received": 0 }, "inverse_keys": { "sent": 5, "received": 5 }, "nuclear": { "sent": 0, "received": 1 } } },
+    { "user_id": "u38", "username": "TryHard", "sabotage_stats_lifetime": { "slap_left": { "sent": 2200, "received": 300 }, "slap_right": { "sent": 2300, "received": 280 }, "speed_boost": { "sent": 1100, "received": 0 }, "power_jump": { "sent": 550, "received": 0 }, "inverse_keys": { "sent": 400, "received": 50 }, "nuclear": { "sent": 50, "received": 8 } } },
+    { "user_id": "u39", "username": "CasualDave", "sabotage_stats_lifetime": { "slap_left": { "sent": 200, "received": 300 }, "slap_right": { "sent": 210, "received": 310 }, "speed_boost": { "sent": 80, "received": 0 }, "power_jump": { "sent": 40, "received": 0 }, "inverse_keys": { "sent": 15, "received": 40 }, "nuclear": { "sent": 1, "received": 5 } } },
+    { "user_id": "u40", "username": "ProSniper", "sabotage_stats_lifetime": { "slap_left": { "sent": 1100, "received": 150 }, "slap_right": { "sent": 1150, "received": 140 }, "speed_boost": { "sent": 550, "received": 0 }, "power_jump": { "sent": 275, "received": 0 }, "inverse_keys": { "sent": 180, "received": 30 }, "nuclear": { "sent": 20, "received": 3 } } },
+    { "user_id": "u41", "username": "SprayPray", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 700 }, "slap_right": { "sent": 720, "received": 720 }, "speed_boost": { "sent": 350, "received": 0 }, "power_jump": { "sent": 175, "received": 0 }, "inverse_keys": { "sent": 80, "received": 80 }, "nuclear": { "sent": 8, "received": 8 } } },
+    { "user_id": "u42", "username": "LagSwitch", "sabotage_stats_lifetime": { "slap_left": { "sent": 500, "received": 500 }, "slap_right": { "sent": 510, "received": 510 }, "speed_boost": { "sent": 250, "received": 0 }, "power_jump": { "sent": 125, "received": 0 }, "inverse_keys": { "sent": 60, "received": 60 }, "nuclear": { "sent": 5, "received": 5 } } },
+    { "user_id": "u43", "username": "WallHacker", "sabotage_stats_lifetime": { "slap_left": { "sent": 0, "received": 0 }, "slap_right": { "sent": 0, "received": 0 }, "speed_boost": { "sent": 0, "received": 0 }, "power_jump": { "sent": 0, "received": 0 }, "inverse_keys": { "sent": 0, "received": 0 }, "nuclear": { "sent": 0, "received": 0 } } },
+    { "user_id": "u44", "username": "AimbotUser", "sabotage_stats_lifetime": { "slap_left": { "sent": 5000, "received": 0 }, "slap_right": { "sent": 5000, "received": 0 }, "speed_boost": { "sent": 0, "received": 0 }, "power_jump": { "sent": 0, "received": 0 }, "inverse_keys": { "sent": 1000, "received": 0 }, "nuclear": { "sent": 100, "received": 0 } } },
+    { "user_id": "u45", "username": "FairPlay", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 400 }, "slap_right": { "sent": 620, "received": 390 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 80, "received": 50 }, "nuclear": { "sent": 8, "received": 6 } } },
+    { "user_id": "u46", "username": "Admin01", "sabotage_stats_lifetime": { "slap_left": { "sent": 9999, "received": 0 }, "slap_right": { "sent": 9999, "received": 0 }, "speed_boost": { "sent": 5000, "received": 0 }, "power_jump": { "sent": 2500, "received": 0 }, "inverse_keys": { "sent": 1000, "received": 0 }, "nuclear": { "sent": 500, "received": 0 } } },
+    { "user_id": "u47", "username": "Mod02", "sabotage_stats_lifetime": { "slap_left": { "sent": 5000, "received": 100 }, "slap_right": { "sent": 5100, "received": 95 }, "speed_boost": { "sent": 2500, "received": 0 }, "power_jump": { "sent": 1250, "received": 0 }, "inverse_keys": { "sent": 800, "received": 20 }, "nuclear": { "sent": 200, "received": 5 } } },
+    { "user_id": "u48", "username": "Tester03", "sabotage_stats_lifetime": { "slap_left": { "sent": 100, "received": 100 }, "slap_right": { "sent": 100, "received": 100 }, "speed_boost": { "sent": 50, "received": 0 }, "power_jump": { "sent": 25, "received": 0 }, "inverse_keys": { "sent": 10, "received": 10 }, "nuclear": { "sent": 1, "received": 1 } } },
+    { "user_id": "u49", "username": "Guest123", "sabotage_stats_lifetime": { "slap_left": { "sent": 20, "received": 80 }, "slap_right": { "sent": 25, "received": 85 }, "speed_boost": { "sent": 10, "received": 0 }, "power_jump": { "sent": 5, "received": 0 }, "inverse_keys": { "sent": 2, "received": 15 }, "nuclear": { "sent": 0, "received": 2 } } },
+    { "user_id": "u50", "username": "Guest456", "sabotage_stats_lifetime": { "slap_left": { "sent": 30, "received": 70 }, "slap_right": { "sent": 35, "received": 75 }, "speed_boost": { "sent": 15, "received": 0 }, "power_jump": { "sent": 7, "received": 0 }, "inverse_keys": { "sent": 3, "received": 12 }, "nuclear": { "sent": 0, "received": 1 } } },
+    { "user_id": "u51", "username": "SlapChop", "sabotage_stats_lifetime": { "slap_left": { "sent": 950, "received": 200 }, "slap_right": { "sent": 980, "received": 190 }, "speed_boost": { "sent": 475, "received": 0 }, "power_jump": { "sent": 230, "received": 0 }, "inverse_keys": { "sent": 140, "received": 40 }, "nuclear": { "sent": 15, "received": 5 } } },
+    { "user_id": "u52", "username": "BoomBoom", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 600 }, "slap_right": { "sent": 610, "received": 610 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 80, "received": 80 }, "nuclear": { "sent": 20, "received": 20 } } },
+    { "user_id": "u53", "username": "SpeedyGonz", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 100 }, "slap_right": { "sent": 420, "received": 90 }, "speed_boost": { "sent": 1000, "received": 0 }, "power_jump": { "sent": 300, "received": 0 }, "inverse_keys": { "sent": 50, "received": 20 }, "nuclear": { "sent": 5, "received": 2 } } },
+    { "user_id": "u54", "username": "JumpMan", "sabotage_stats_lifetime": { "slap_left": { "sent": 300, "received": 200 }, "slap_right": { "sent": 310, "received": 190 }, "speed_boost": { "sent": 150, "received": 0 }, "power_jump": { "sent": 800, "received": 0 }, "inverse_keys": { "sent": 40, "received": 30 }, "nuclear": { "sent": 4, "received": 3 } } },
+    { "user_id": "u55", "username": "Confusio", "sabotage_stats_lifetime": { "slap_left": { "sent": 200, "received": 300 }, "slap_right": { "sent": 210, "received": 290 }, "speed_boost": { "sent": 100, "received": 0 }, "power_jump": { "sent": 50, "received": 0 }, "inverse_keys": { "sent": 600, "received": 40 }, "nuclear": { "sent": 3, "received": 5 } } },
+    { "user_id": "u56", "username": "NukeDuke", "sabotage_stats_lifetime": { "slap_left": { "sent": 100, "received": 400 }, "slap_right": { "sent": 110, "received": 390 }, "speed_boost": { "sent": 50, "received": 0 }, "power_jump": { "sent": 25, "received": 0 }, "inverse_keys": { "sent": 20, "received": 60 }, "nuclear": { "sent": 50, "received": 10 } } },
+    { "user_id": "u57", "username": "AverageJoe", "sabotage_stats_lifetime": { "slap_left": { "sent": 500, "received": 500 }, "slap_right": { "sent": 500, "received": 500 }, "speed_boost": { "sent": 250, "received": 0 }, "power_jump": { "sent": 125, "received": 0 }, "inverse_keys": { "sent": 60, "received": 60 }, "nuclear": { "sent": 6, "received": 6 } } },
+    { "user_id": "u58", "username": "LuckyDuck", "sabotage_stats_lifetime": { "slap_left": { "sent": 100, "received": 50 }, "slap_right": { "sent": 110, "received": 45 }, "speed_boost": { "sent": 50, "received": 0 }, "power_jump": { "sent": 25, "received": 0 }, "inverse_keys": { "sent": 10, "received": 5 }, "nuclear": { "sent": 5, "received": 0 } } },
+    { "user_id": "u59", "username": "UnluckyCat", "sabotage_stats_lifetime": { "slap_left": { "sent": 50, "received": 200 }, "slap_right": { "sent": 55, "received": 210 }, "speed_boost": { "sent": 25, "received": 0 }, "power_jump": { "sent": 12, "received": 0 }, "inverse_keys": { "sent": 5, "received": 40 }, "nuclear": { "sent": 0, "received": 10 } } },
+    { "user_id": "u60", "username": "TrollFace", "sabotage_stats_lifetime": { "slap_left": { "sent": 10, "received": 10 }, "slap_right": { "sent": 10, "received": 10 }, "speed_boost": { "sent": 5, "received": 0 }, "power_jump": { "sent": 2, "received": 0 }, "inverse_keys": { "sent": 100, "received": 0 }, "nuclear": { "sent": 0, "received": 0 } } },
+    { "user_id": "u61", "username": "IronMan", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 200 }, "slap_right": { "sent": 820, "received": 190 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 100, "received": 30 }, "nuclear": { "sent": 15, "received": 5 } } },
+    { "user_id": "u62", "username": "CapAmerica", "sabotage_stats_lifetime": { "slap_left": { "sent": 750, "received": 250 }, "slap_right": { "sent": 770, "received": 240 }, "speed_boost": { "sent": 375, "received": 0 }, "power_jump": { "sent": 180, "received": 0 }, "inverse_keys": { "sent": 90, "received": 40 }, "nuclear": { "sent": 10, "received": 8 } } },
+    { "user_id": "u63", "username": "Thor", "sabotage_stats_lifetime": { "slap_left": { "sent": 1200, "received": 100 }, "slap_right": { "sent": 1250, "received": 90 }, "speed_boost": { "sent": 600, "received": 0 }, "power_jump": { "sent": 300, "received": 0 }, "inverse_keys": { "sent": 150, "received": 20 }, "nuclear": { "sent": 30, "received": 2 } } },
+    { "user_id": "u64", "username": "Hulk", "sabotage_stats_lifetime": { "slap_left": { "sent": 1500, "received": 500 }, "slap_right": { "sent": 1550, "received": 480 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 250, "received": 0 }, "inverse_keys": { "sent": 100, "received": 80 }, "nuclear": { "sent": 20, "received": 20 } } },
+    { "user_id": "u65", "username": "BlackWidow", "sabotage_stats_lifetime": { "slap_left": { "sent": 900, "received": 150 }, "slap_right": { "sent": 920, "received": 140 }, "speed_boost": { "sent": 600, "received": 0 }, "power_jump": { "sent": 300, "received": 0 }, "inverse_keys": { "sent": 200, "received": 25 }, "nuclear": { "sent": 10, "received": 4 } } },
+    { "user_id": "u66", "username": "Hawkeye", "sabotage_stats_lifetime": { "slap_left": { "sent": 850, "received": 160 }, "slap_right": { "sent": 870, "received": 150 }, "speed_boost": { "sent": 425, "received": 0 }, "power_jump": { "sent": 210, "received": 0 }, "inverse_keys": { "sent": 110, "received": 30 }, "nuclear": { "sent": 8, "received": 5 } } },
+    { "user_id": "u67", "username": "Spidey", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 180 }, "slap_right": { "sent": 720, "received": 170 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 400, "received": 0 }, "inverse_keys": { "sent": 90, "received": 35 }, "nuclear": { "sent": 5, "received": 6 } } },
+    { "user_id": "u68", "username": "DrStrange", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 200 }, "slap_right": { "sent": 620, "received": 190 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 300, "received": 40 }, "nuclear": { "sent": 15, "received": 3 } } },
+    { "user_id": "u69", "username": "AntMan", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 100 }, "slap_right": { "sent": 410, "received": 95 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 50, "received": 15 }, "nuclear": { "sent": 2, "received": 2 } } },
+    { "user_id": "u70", "username": "Wasp", "sabotage_stats_lifetime": { "slap_left": { "sent": 420, "received": 90 }, "slap_right": { "sent": 430, "received": 85 }, "speed_boost": { "sent": 250, "received": 0 }, "power_jump": { "sent": 120, "received": 0 }, "inverse_keys": { "sent": 60, "received": 12 }, "nuclear": { "sent": 3, "received": 1 } } },
+    { "user_id": "u71", "username": "StarLord", "sabotage_stats_lifetime": { "slap_left": { "sent": 550, "received": 150 }, "slap_right": { "sent": 570, "received": 140 }, "speed_boost": { "sent": 275, "received": 0 }, "power_jump": { "sent": 130, "received": 0 }, "inverse_keys": { "sent": 70, "received": 25 }, "nuclear": { "sent": 5, "received": 4 } } },
+    { "user_id": "u72", "username": "Gamora", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 120 }, "slap_right": { "sent": 820, "received": 110 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 100, "received": 20 }, "nuclear": { "sent": 10, "received": 3 } } },
+    { "user_id": "u73", "username": "Drax", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 300 }, "slap_right": { "sent": 610, "received": 290 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 50, "received": 60 }, "nuclear": { "sent": 5, "received": 8 } } },
+    { "user_id": "u74", "username": "Rocket", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 130 }, "slap_right": { "sent": 720, "received": 120 }, "speed_boost": { "sent": 350, "received": 0 }, "power_jump": { "sent": 175, "received": 0 }, "inverse_keys": { "sent": 90, "received": 25 }, "nuclear": { "sent": 20, "received": 5 } } },
+    { "user_id": "u75", "username": "Groot", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 100 }, "slap_right": { "sent": 410, "received": 95 }, "speed_boost": { "sent": 100, "received": 0 }, "power_jump": { "sent": 50, "received": 0 }, "inverse_keys": { "sent": 20, "received": 10 }, "nuclear": { "sent": 2, "received": 2 } } },
+    { "user_id": "u76", "username": "Thanos", "sabotage_stats_lifetime": { "slap_left": { "sent": 2000, "received": 50 }, "slap_right": { "sent": 2000, "received": 50 }, "speed_boost": { "sent": 1000, "received": 0 }, "power_jump": { "sent": 500, "received": 0 }, "inverse_keys": { "sent": 500, "received": 10 }, "nuclear": { "sent": 100, "received": 1 } } },
+    { "user_id": "u77", "username": "Loki", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 150 }, "slap_right": { "sent": 620, "received": 140 }, "speed_boost": { "sent": 300, "received": 0 }, "power_jump": { "sent": 150, "received": 0 }, "inverse_keys": { "sent": 400, "received": 30 }, "nuclear": { "sent": 10, "received": 5 } } },
+    { "user_id": "u78", "username": "Hela", "sabotage_stats_lifetime": { "slap_left": { "sent": 900, "received": 100 }, "slap_right": { "sent": 920, "received": 90 }, "speed_boost": { "sent": 450, "received": 0 }, "power_jump": { "sent": 225, "received": 0 }, "inverse_keys": { "sent": 120, "received": 20 }, "nuclear": { "sent": 15, "received": 3 } } },
+    { "user_id": "u79", "username": "Venom", "sabotage_stats_lifetime": { "slap_left": { "sent": 1100, "received": 200 }, "slap_right": { "sent": 1120, "received": 190 }, "speed_boost": { "sent": 550, "received": 0 }, "power_jump": { "sent": 275, "received": 0 }, "inverse_keys": { "sent": 140, "received": 40 }, "nuclear": { "sent": 18, "received": 6 } } },
+    { "user_id": "u80", "username": "Carnage", "sabotage_stats_lifetime": { "slap_left": { "sent": 1000, "received": 250 }, "slap_right": { "sent": 1020, "received": 240 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 250, "received": 0 }, "inverse_keys": { "sent": 130, "received": 50 }, "nuclear": { "sent": 25, "received": 8 } } },
+    { "user_id": "u81", "username": "Joker", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 180 }, "slap_right": { "sent": 720, "received": 170 }, "speed_boost": { "sent": 350, "received": 0 }, "power_jump": { "sent": 175, "received": 0 }, "inverse_keys": { "sent": 250, "received": 40 }, "nuclear": { "sent": 12, "received": 6 } } },
+    { "user_id": "u82", "username": "Batman", "sabotage_stats_lifetime": { "slap_left": { "sent": 1300, "received": 80 }, "slap_right": { "sent": 1350, "received": 75 }, "speed_boost": { "sent": 650, "received": 0 }, "power_jump": { "sent": 325, "received": 0 }, "inverse_keys": { "sent": 160, "received": 15 }, "nuclear": { "sent": 20, "received": 2 } } },
+    { "user_id": "u83", "username": "Superman", "sabotage_stats_lifetime": { "slap_left": { "sent": 1800, "received": 40 }, "slap_right": { "sent": 1850, "received": 35 }, "speed_boost": { "sent": 2000, "received": 0 }, "power_jump": { "sent": 1000, "received": 0 }, "inverse_keys": { "sent": 100, "received": 10 }, "nuclear": { "sent": 40, "received": 1 } } },
+    { "user_id": "u84", "username": "WonderWoman", "sabotage_stats_lifetime": { "slap_left": { "sent": 1400, "received": 70 }, "slap_right": { "sent": 1450, "received": 65 }, "speed_boost": { "sent": 700, "received": 0 }, "power_jump": { "sent": 350, "received": 0 }, "inverse_keys": { "sent": 180, "received": 15 }, "nuclear": { "sent": 22, "received": 2 } } },
+    { "user_id": "u85", "username": "Flash", "sabotage_stats_lifetime": { "slap_left": { "sent": 600, "received": 120 }, "slap_right": { "sent": 620, "received": 110 }, "speed_boost": { "sent": 5000, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 50, "received": 20 }, "nuclear": { "sent": 5, "received": 3 } } },
+    { "user_id": "u86", "username": "Aquaman", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 140 }, "slap_right": { "sent": 820, "received": 130 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 90, "received": 25 }, "nuclear": { "sent": 8, "received": 4 } } },
+    { "user_id": "u87", "username": "Cyborg", "sabotage_stats_lifetime": { "slap_left": { "sent": 700, "received": 150 }, "slap_right": { "sent": 720, "received": 140 }, "speed_boost": { "sent": 350, "received": 0 }, "power_jump": { "sent": 175, "received": 0 }, "inverse_keys": { "sent": 150, "received": 30 }, "nuclear": { "sent": 12, "received": 5 } } },
+    { "user_id": "u88", "username": "GreenLantern", "sabotage_stats_lifetime": { "slap_left": { "sent": 750, "received": 130 }, "slap_right": { "sent": 770, "received": 120 }, "speed_boost": { "sent": 375, "received": 0 }, "power_jump": { "sent": 185, "received": 0 }, "inverse_keys": { "sent": 100, "received": 25 }, "nuclear": { "sent": 10, "received": 4 } } },
+    { "user_id": "u89", "username": "Shazam", "sabotage_stats_lifetime": { "slap_left": { "sent": 650, "received": 140 }, "slap_right": { "sent": 670, "received": 130 }, "speed_boost": { "sent": 325, "received": 0 }, "power_jump": { "sent": 160, "received": 0 }, "inverse_keys": { "sent": 80, "received": 28 }, "nuclear": { "sent": 9, "received": 5 } } },
+    { "user_id": "u90", "username": "BlackAdam", "sabotage_stats_lifetime": { "slap_left": { "sent": 950, "received": 110 }, "slap_right": { "sent": 970, "received": 100 }, "speed_boost": { "sent": 475, "received": 0 }, "power_jump": { "sent": 235, "received": 0 }, "inverse_keys": { "sent": 110, "received": 22 }, "nuclear": { "sent": 14, "received": 3 } } },
+    { "user_id": "u91", "username": "Darkseid", "sabotage_stats_lifetime": { "slap_left": { "sent": 1600, "received": 60 }, "slap_right": { "sent": 1650, "received": 55 }, "speed_boost": { "sent": 800, "received": 0 }, "power_jump": { "sent": 400, "received": 0 }, "inverse_keys": { "sent": 200, "received": 12 }, "nuclear": { "sent": 50, "received": 1 } } },
+    { "user_id": "u92", "username": "LexLuthor", "sabotage_stats_lifetime": { "slap_left": { "sent": 500, "received": 160 }, "slap_right": { "sent": 520, "received": 150 }, "speed_boost": { "sent": 250, "received": 0 }, "power_jump": { "sent": 125, "received": 0 }, "inverse_keys": { "sent": 150, "received": 30 }, "nuclear": { "sent": 20, "received": 6 } } },
+    { "user_id": "u93", "username": "HarryPotter", "sabotage_stats_lifetime": { "slap_left": { "sent": 450, "received": 140 }, "slap_right": { "sent": 470, "received": 130 }, "speed_boost": { "sent": 225, "received": 0 }, "power_jump": { "sent": 110, "received": 0 }, "inverse_keys": { "sent": 100, "received": 25 }, "nuclear": { "sent": 5, "received": 5 } } },
+    { "user_id": "u94", "username": "Hermione", "sabotage_stats_lifetime": { "slap_left": { "sent": 480, "received": 130 }, "slap_right": { "sent": 500, "received": 120 }, "speed_boost": { "sent": 240, "received": 0 }, "power_jump": { "sent": 120, "received": 0 }, "inverse_keys": { "sent": 120, "received": 22 }, "nuclear": { "sent": 6, "received": 4 } } },
+    { "user_id": "u95", "username": "RonWeasley", "sabotage_stats_lifetime": { "slap_left": { "sent": 400, "received": 180 }, "slap_right": { "sent": 420, "received": 170 }, "speed_boost": { "sent": 200, "received": 0 }, "power_jump": { "sent": 100, "received": 0 }, "inverse_keys": { "sent": 60, "received": 35 }, "nuclear": { "sent": 3, "received": 7 } } },
+    { "user_id": "u96", "username": "Voldemort", "sabotage_stats_lifetime": { "slap_left": { "sent": 1100, "received": 90 }, "slap_right": { "sent": 1150, "received": 80 }, "speed_boost": { "sent": 550, "received": 0 }, "power_jump": { "sent": 275, "received": 0 }, "inverse_keys": { "sent": 300, "received": 15 }, "nuclear": { "sent": 40, "received": 2 } } },
+    { "user_id": "u97", "username": "Dumbledore", "sabotage_stats_lifetime": { "slap_left": { "sent": 1000, "received": 100 }, "slap_right": { "sent": 1050, "received": 90 }, "speed_boost": { "sent": 500, "received": 0 }, "power_jump": { "sent": 250, "received": 0 }, "inverse_keys": { "sent": 250, "received": 18 }, "nuclear": { "sent": 30, "received": 3 } } },
+    { "user_id": "u98", "username": "Snape", "sabotage_stats_lifetime": { "slap_left": { "sent": 750, "received": 120 }, "slap_right": { "sent": 770, "received": 110 }, "speed_boost": { "sent": 375, "received": 0 }, "power_jump": { "sent": 185, "received": 0 }, "inverse_keys": { "sent": 180, "received": 22 }, "nuclear": { "sent": 12, "received": 4 } } },
+    { "user_id": "u99", "username": "Frodo", "sabotage_stats_lifetime": { "slap_left": { "sent": 300, "received": 150 }, "slap_right": { "sent": 320, "received": 140 }, "speed_boost": { "sent": 150, "received": 0 }, "power_jump": { "sent": 75, "received": 0 }, "inverse_keys": { "sent": 50, "received": 30 }, "nuclear": { "sent": 2, "received": 6 } } },
+    { "user_id": "u100", "username": "Gandalf", "sabotage_stats_lifetime": { "slap_left": { "sent": 900, "received": 80 }, "slap_right": { "sent": 950, "received": 70 }, "speed_boost": { "sent": 450, "received": 0 }, "power_jump": { "sent": 225, "received": 0 }, "inverse_keys": { "sent": 200, "received": 15 }, "nuclear": { "sent": 25, "received": 2 } } },
+    { "user_id": "u101", "username": "Aragorn", "sabotage_stats_lifetime": { "slap_left": { "sent": 850, "received": 100 }, "slap_right": { "sent": 870, "received": 90 }, "speed_boost": { "sent": 425, "received": 0 }, "power_jump": { "sent": 210, "received": 0 }, "inverse_keys": { "sent": 100, "received": 20 }, "nuclear": { "sent": 10, "received": 3 } } },
+    { "user_id": "u102", "username": "Legolas", "sabotage_stats_lifetime": { "slap_left": { "sent": 800, "received": 110 }, "slap_right": { "sent": 820, "received": 100 }, "speed_boost": { "sent": 400, "received": 0 }, "power_jump": { "sent": 200, "received": 0 }, "inverse_keys": { "sent": 90, "received": 22 }, "nuclear": { "sent": 8, "received": 4 } } },
+    { "user_id": "u103", "username": "Gimli", "sabotage_stats_lifetime": { "slap_left": { "sent": 750, "received": 130 }, "slap_right": { "sent": 770, "received": 120 }, "speed_boost": { "sent": 375, "received": 0 }, "power_jump": { "sent": 185, "received": 0 }, "inverse_keys": { "sent": 80, "received": 25 }, "nuclear": { "sent": 7, "received": 5 } } },
+    { "user_id": "u104", "username": "Sauron", "sabotage_stats_lifetime": { "slap_left": { "sent": 1500, "received": 40 }, "slap_right": { "sent": 1550, "received": 35 }, "speed_boost": { "sent": 750, "received": 0 }, "power_jump": { "sent": 375, "received": 0 }, "inverse_keys": { "sent": 300, "received": 10 }, "nuclear": { "sent": 60, "received": 1 } } }
   ]
 }
