@@ -1,0 +1,50 @@
+{
+  "guild_id": "guild_slap_001",
+  "guild_name": "SLAP",
+  "tag": "[SLAP]",
+  "level": 42,
+  "members": [
+    {
+      "user_id": "u5",
+      "username": "NeonNinja",
+      "role": "Leader",
+      "join_date": "2024-01-01",
+      "contribution_points": 55000
+    },
+    {
+      "user_id": "u6",
+      "username": "PixelPuncher",
+      "role": "Officer",
+      "join_date": "2024-01-05",
+      "contribution_points": 42000
+    },
+    {
+      "user_id": "u7",
+      "username": "LagSpike",
+      "role": "Member",
+      "join_date": "2024-02-12",
+      "contribution_points": 22100
+    },
+    {
+      "user_id": "player_one_123",
+      "username": "PlayerOne",
+      "role": "Member",
+      "join_date": "2024-03-15",
+      "contribution_points": 12405
+    },
+    {
+      "user_id": "u27",
+      "username": "L33t",
+      "role": "Elder",
+      "join_date": "2024-01-20",
+      "contribution_points": 35000
+    },
+    {
+      "user_id": "u41",
+      "username": "SprayPray",
+      "role": "Recruit",
+      "join_date": "2025-02-28",
+      "contribution_points": 1500
+    }
+  ]
+}
