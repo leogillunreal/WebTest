@@ -1,0 +1,40 @@
+{
+  "user_id": "player_one_123",
+  "friends": [
+    {
+      "user_id": "slap_master_99",
+      "username": "SlapMaster99",
+      "status": "online",
+      "activity": "Playing Tumble",
+      "friend_since": "2024-11-15"
+    },
+    {
+      "user_id": "king_chaos_x",
+      "username": "KingChaos",
+      "status": "online",
+      "activity": "In Menu",
+      "friend_since": "2024-12-01"
+    },
+    {
+      "user_id": "zero_cool_00",
+      "username": "ZeroCool",
+      "status": "offline",
+      "last_seen": "2h ago",
+      "friend_since": "2025-01-10"
+    },
+    {
+      "user_id": "u35",
+      "username": "LoudMouth",
+      "status": "offline",
+      "last_seen": "5d ago",
+      "friend_since": "2025-02-14"
+    },
+    {
+      "user_id": "u53",
+      "username": "SpeedyGonz",
+      "status": "busy",
+      "activity": "Ranked Match",
+      "friend_since": "2025-02-20"
+    }
+  ]
+}
