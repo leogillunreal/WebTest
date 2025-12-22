@@ -4,7 +4,7 @@
       "user_id": "player_one_123",
       "username": "PlayerOne",
       "sabotage_stats_lifetime": {
-        "slap_left": { "sent":1000036, "received": 45 },
+        "slap_left": { "sent":1000, "received": 45 },
         "slap_right": { "sent": 198, "received": 32 },
         "speed_boost": { "sent": 142, "received": 1000 },
         "power_jump": { "sent": 85, "received": 120 },
