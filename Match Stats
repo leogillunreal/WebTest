@@ -1,0 +1,148 @@
+{
+  "players": [
+    {
+      "user_id": "player_one_123",
+      "username": "PlayerOne",
+      "progress": 42,
+      "total_time": "15h 20m 45s",
+      "match_stats": {
+        "downdown_wins": 45,
+        "tumble_wins": 12
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 210, "received": 45 },
+        "slap_right": { "sent": 198, "received": 32 },
+        "speed_boost": { "sent": 142, "received": 0 },
+        "power_jump": { "sent": 85, "received": 0 },
+        "inverse_keys": { "sent": 42, "received": 18 },
+        "nuclear": { "sent": 3, "received": 12 }
+      }
+    },
+    {
+      "user_id": "slap_master_99",
+      "username": "SlapMaster99",
+      "progress": 88,
+      "total_time": "42h 10m 12s",
+      "match_stats": {
+        "downdown_wins": 120,
+        "tumble_wins": 85
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 1540, "received": 120 },
+        "slap_right": { "sent": 1600, "received": 115 },
+        "speed_boost": { "sent": 800, "received": 0 },
+        "power_jump": { "sent": 450, "received": 0 },
+        "inverse_keys": { "sent": 300, "received": 50 },
+        "nuclear": { "sent": 52, "received": 5 }
+      }
+    },
+    {
+      "user_id": "king_chaos_x",
+      "username": "KingChaos",
+      "progress": 65,
+      "total_time": "28h 45m 30s",
+      "match_stats": {
+        "downdown_wins": 98,
+        "tumble_wins": 40
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 890, "received": 600 },
+        "slap_right": { "sent": 910, "received": 580 },
+        "speed_boost": { "sent": 120, "received": 0 },
+        "power_jump": { "sent": 45, "received": 0 },
+        "inverse_keys": { "sent": 55, "received": 210 },
+        "nuclear": { "sent": 12, "received": 48 }
+      }
+    },
+    {
+      "user_id": "zero_cool_00",
+      "username": "ZeroCool",
+      "progress": 20,
+      "total_time": "8h 15m 05s",
+      "match_stats": {
+        "downdown_wins": 15,
+        "tumble_wins": 200
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 45, "received": 300 },
+        "slap_right": { "sent": 50, "received": 320 },
+        "speed_boost": { "sent": 10, "received": 0 },
+        "power_jump": { "sent": 5, "received": 0 },
+        "inverse_keys": { "sent": 2, "received": 99 },
+        "nuclear": { "sent": 0, "received": 34 }
+      }
+    },
+    {
+      "user_id": "u5",
+      "username": "NeonNinja",
+      "progress": 35,
+      "total_time": "12h 00m 59s",
+      "match_stats": {
+        "downdown_wins": 30,
+        "tumble_wins": 55
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 320, "received": 50 },
+        "slap_right": { "sent": 310, "received": 40 },
+        "speed_boost": { "sent": 200, "received": 0 },
+        "power_jump": { "sent": 100, "received": 0 },
+        "inverse_keys": { "sent": 30, "received": 10 },
+        "nuclear": { "sent": 1, "received": 2 }
+      }
+    },
+    {
+      "user_id": "u6",
+      "username": "PixelPuncher",
+      "progress": 95,
+      "total_time": "55h 30m 22s",
+      "match_stats": {
+        "downdown_wins": 200,
+        "tumble_wins": 10
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 150, "received": 200 },
+        "slap_right": { "sent": 160, "received": 210 },
+        "speed_boost": { "sent": 50, "received": 0 },
+        "power_jump": { "sent": 20, "received": 0 },
+        "inverse_keys": { "sent": 10, "received": 40 },
+        "nuclear": { "sent": 0, "received": 5 }
+      }
+    },
+    {
+      "user_id": "u7",
+      "username": "LagSpike",
+      "progress": 5,
+      "total_time": "2h 10m 10s",
+      "match_stats": {
+        "downdown_wins": 5,
+        "tumble_wins": 5
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 800, "received": 100 },
+        "slap_right": { "sent": 850, "received": 90 },
+        "speed_boost": { "sent": 400, "received": 0 },
+        "power_jump": { "sent": 200, "received": 0 },
+        "inverse_keys": { "sent": 150, "received": 20 },
+        "nuclear": { "sent": 10, "received": 1 }
+      }
+    },
+    {
+      "user_id": "u46",
+      "username": "Admin01",
+      "progress": 100,
+      "total_time": "999h 59m 59s",
+      "match_stats": {
+        "downdown_wins": 999,
+        "tumble_wins": 999
+      },
+      "sabotage_stats_lifetime": {
+        "slap_left": { "sent": 9999, "received": 0 },
+        "slap_right": { "sent": 9999, "received": 0 },
+        "speed_boost": { "sent": 5000, "received": 0 },
+        "power_jump": { "sent": 2500, "received": 0 },
+        "inverse_keys": { "sent": 1000, "received": 0 },
+        "nuclear": { "sent": 500, "received": 0 }
+      }
+    }
+  ]
+}
